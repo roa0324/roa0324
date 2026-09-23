@@ -32,6 +32,6 @@
 
 ### 🎯 My Goal
 
-> Keep learning, keep building, and keep improving. 🚀
+>  I don't know what I'll learn next, but I'm excited to find out. 🌱 🚀
 
 Thanks for visiting my GitHub! ⭐
