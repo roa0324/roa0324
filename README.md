@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Thuy Linh
 
-<!--
-**roa0324/roa0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 **Python Learner | 📊 Data Science | 🤖 Machine Learning | 🧠 Deep Learning**
 
-Here are some ideas to get you started:
+🌱 I'm currently learning **Python, Data Science, Machine Learning, and Deep Learning.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy learning by building small projects and practicing with real datasets.
+
+### 📚 Currently Learning
+
+- 🐍 Python
+- 📊 Data Analysis with Pandas & NumPy
+- 📈 Data Visualization
+- 🤖 Machine Learning
+- 🧠 Deep Learning & CNN
+- 🗄️ SQL
+- 🌐 Flask
+
+### 🔨 Tools & Technologies
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`  
+`Scikit-learn` `LightGBM` `TensorFlow` `Keras`  
+`SQL` `Flask` `Git` `GitHub`
+
+### 🚀 Projects
+
+- 🚲 Bike Sharing Demand Prediction
+- 🚗 EV Purchase Prediction
+- ❤️ Heart Disease Classification
+- 🐱🐶 Cat vs Dog Classification
+- 👥 Customer Segmentation
+
+### 🎯 My Goal
+
+> Keep learning, keep building, and keep improving. 🚀
+
+Thanks for visiting my GitHub! ⭐
