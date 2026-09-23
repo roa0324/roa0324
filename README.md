@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thuy Linh
+# 👋 Hi, I'm Roa
 
 🐍 **Python Learner | 📊 Data Science | 🤖 Machine Learning | 🧠 Deep Learning**
 
